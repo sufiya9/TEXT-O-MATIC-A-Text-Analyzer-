@@ -1,0 +1,24 @@
+1st terminal 
+cd frontend enter
+npm start enter
+
+2nd terminal
+cd backend enter
+npm run dev enter 
+
+wait till the application has start on server
+
+
+
+3rd terminal
+ copy the path of the folder name "API" under the folder "majorapi"
+open miniconda prompt 
+cd paste the path of the folder enter
+cls  enter
+dir  enter
+uvicorn majorapi:app --reload enter 
+copy the localhost server address   and past  into the browser  
+fastapi has started.
+
+
+now project is completely running state .
